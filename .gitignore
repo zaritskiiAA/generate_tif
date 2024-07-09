@@ -1,0 +1,15 @@
+# venv
+venv/
+
+# cache 
+__pycache__/
+
+# sql 
+db.sqlite3
+
+# env
+.env
+
+# media folder
+result/
+Для тестового/
